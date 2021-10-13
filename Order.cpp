@@ -5,5 +5,5 @@ Order::Order(char porderID[10])
 {}
 Order::~Order()
 {
-  cout<<"Order deleted";
+  cout<< "Order deleted";
 }
